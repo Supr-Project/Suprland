@@ -1,3 +1,6 @@
+git
+curl
+wget
 hyprland
 kitty
 rofi-wayland
@@ -7,3 +10,4 @@ matugen
 discord
 google-chrome
 code
+neovim
