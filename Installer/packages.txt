@@ -1,0 +1,9 @@
+hyprland
+kitty
+rofi-wayland
+nautilus
+awww
+matugen
+discord
+google-chrome
+code
