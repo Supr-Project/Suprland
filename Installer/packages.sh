@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the package list file
-PKG_FILE="packages.txt"
+PKG_FILE="pkgs.txt"
 
 # Check if the package list file exists
 if [ ! -f "$PKG_FILE" ]; then
