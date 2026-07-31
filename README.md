@@ -1,5 +1,5 @@
-<h1 align='center'>𝙿𝚁𝙾𝙹𝙴𝙲𝚃 • 𝚂𝚄𝙿𝚁</h1>
-<h3 align='center'> ✨ 𝐀 𝐦𝐨𝐝𝐞𝐫𝐧 𝐋𝐢𝐧𝐮𝐱 𝐞𝐜𝐨𝐬𝐲𝐬𝐭𝐞𝐦 𝐛𝐮𝐢𝐥𝐭 𝐟𝐨𝐫 𝐜𝐮𝐬𝐭𝐨𝐦𝐢𝐳𝐚𝐭𝐢𝐨𝐧, 𝐬𝐢𝐦𝐩𝐥𝐢𝐜𝐢𝐭𝐲, 𝐚𝐧𝐝 𝐬𝐩𝐞𝐞𝐝. </h3>
+<h1 align='center'>Project Supr</h1>
+<h3 align='center'> ✨ A modern linux rice </h3>
 
 <div align="center">
 <br>
